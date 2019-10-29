@@ -1,0 +1,2 @@
+# JuMEGwxGUI
+wxWidgets for JuMEG
